@@ -1,0 +1,4 @@
+volume=$(~/.config/status/bin/volume)
+battery=$(~/.config/status/bin/battery)
+clock=$(~/.config/status/bin/date)
+printf "%s %s %s \n"  "$volume" "$battery" "$clock"

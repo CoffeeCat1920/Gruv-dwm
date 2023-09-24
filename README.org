@@ -1,0 +1,20 @@
+#+title: Readme
+* Gruv-dwm
+A simple and minimal dwm rice I use for college. This only consists of patches I absolutely need to keep it as bloat free as possible.
+** List of Patches
+1. status2d
+2. full gaps
+3. pertag
+4. autostart
+5. tatami
+6. center
+* KeyBindings
+   | Keybinding    | Function    |
+   |---------------+-------------|
+   | Super+Enter   | Alacritty   |
+   | Super+Shift+d | rofi        |
+   | Super+Shift+c | kill_window |
+* Screenshots
+#+name: Desktop
+#+caption: Desktop
+[[./assets/desktop.png]]

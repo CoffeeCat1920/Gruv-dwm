@@ -1,0 +1,5 @@
+vol=$(pamixer --get-volume)
+icon=
+STATUS=^b#8ec07c^^c#282828^
+
+printf "%s %s [%s%%] " "$STATUS" "$icon" "$vol"

@@ -1,0 +1,4 @@
+while true; do
+   xsetroot -name "$(~/.config/status/bin/status)"
+   sleep 1s    # Update time every minute
+done &

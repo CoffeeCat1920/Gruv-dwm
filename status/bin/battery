@@ -1,0 +1,5 @@
+bat=$(acpi | awk '{print $4}' | sed s/,//)
+ICON=󱐋
+STATUS=^b#fabd2f^^c#282828^
+
+printf "%s %s [%s] " "$STATUS" "$ICON" "$bat" 
