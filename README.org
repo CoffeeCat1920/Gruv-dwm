@@ -8,6 +8,12 @@ A simple and minimal dwm rice I use for college. This only consists of patches I
 4. autostart
 5. tatami
 6. center
+* Dependencies
+1. Alacritty
+2. rofi
+3. JetBrainsMono Nerd Font
+4. FiraCode Nerd Font
+
 * KeyBindings
    | Keybinding    | Function    |
    |---------------+-------------|
